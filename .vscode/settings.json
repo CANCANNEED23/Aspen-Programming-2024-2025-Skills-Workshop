@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Aspen Programming Workshop 1.sln"
+    "dotnet.defaultSolution": "Aspen-Programming-Workshop.sln"
 }
